@@ -3,7 +3,15 @@ body{
 	/*background-image: url(img/code-institute.jpg);
  	background-size: cover;
  	color: #ffffff;*/
- 	background-color: #eee;
+ 	/*background-color: #eee;*/
+}
+
+.bg_black {
+	background-color: black;
+}
+
+.bg_grey {
+	background-color: #eee;
 }
 
 h1{
